@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=grandmastervarkaa&label=✦&color=red" />
 </p>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=AA837297&center=true&vCenter=true&width=300&height=100&lines=%F0%9D%90%88'%F0%9D%90%A6+%F0%9D%90%A0%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9A+%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E+%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB;%F0%9D%90%88'%F0%9D%90%A6+%F0%9D%90%A0%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9A+%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A7+%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%B0+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%9F%F0%9D%90%A5%F0%9D%90%B2;%F0%9D%90%88+%F0%9D%90%9F%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A5+%F0%9D%90%A2%F0%9D%90%AD+%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A7'+%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AB%2C;%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9E+%F0%9D%90%B0%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5+%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9E+%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%B2." alt="Typing SVG" /></a>
+</p>
+
 
 <h1></h1>
 
