@@ -9,8 +9,8 @@
 
 <h1></h1>
 
-<p align="left">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/17c5eb5d-5373-4056-bbe0-834a5cbe38ce" />
+<p align="center">
+<img width="650" height="375" alt="image" src="https://github.com/user-attachments/assets/c04b0b85-713a-48da-946f-85a06996bb85" />
 </p>
 
 <h1></h1>
@@ -29,10 +29,6 @@
 </p>
 
 <h1></h1>
-  
-<p align="right">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9071af9e-0c74-43e3-afe3-261f54814437" />
-</p>
 
 <p align="center">
 <img width="330" height="200" alt="fd8c1861711a99060ec7212f5a85a2ab" src="https://github.com/user-attachments/assets/5a53fd4a-5012-4f85-bfb7-f412ced3769e" />
