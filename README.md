@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=grandmastervarkaa&label=✦&color=E8CEC3" />
+  <img src="https://komarev.com/ghpvc/?username=grandmastervarkaa&label=𝘮𝘺 𝓅𝘰𝘮𝘦𝘨𝘳𝘢𝘯𝘢𝘵𝘦𝘴&color=E8CEC3" />
 </p>
 
 
