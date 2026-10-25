@@ -31,8 +31,9 @@
 <h1></h1>
 
 <p align="center">
-<img width="330" height="200" alt="fd8c1861711a99060ec7212f5a85a2ab" src="https://github.com/user-attachments/assets/5a53fd4a-5012-4f85-bfb7-f412ced3769e" />
+<img width="330" height="190" alt="fd8c1861711a99060ec7212f5a85a2ab" src="https://github.com/user-attachments/assets/5a53fd4a-5012-4f85-bfb7-f412ced3769e" />
 </p>
+
 <p align="center">
 yes im too lazy for this despite being a programmer yes bro im SO SORRY broken heart emoji
 </p>
