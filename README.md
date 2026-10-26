@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaykies&label=゛゛𝓒𝐡𝐢𝐦𝐞𝐫𝐚𝐬゛゛&color=702218" />
+  <img src="https://komarev.com/ghpvc/?username=kaykies&label=゛゛𝓒𝐡𝐢𝐦𝐞𝐫𝐚𝐬゛゛&color=702218&base=10000" />
 </p>
 
 
