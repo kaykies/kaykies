@@ -23,8 +23,8 @@
 
 <p align="center">
 <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a> . <a href="https://github.com/pt-hall-of-media
-">pt-hall-of-media </a> . <a href="https://github.com/Ponytowns-rewards">Ponytowns-rewards</a> . <a href="https://github.com/piddlesjet">piddlesjet</a> 
-</p> . <a href="https://github.com/pony-town-nominations">pony-town-nominations</a>
+">pt-hall-of-media </a> . <a href="https://github.com/Ponytowns-rewards">Ponytowns-rewards</a> . <a href="https://github.com/piddlesjet">piddlesjet</a> . <a href="https://github.com/pony-town-nominations">pony-town-nominations</a>
+</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1&color=E3BC8F&center=true&multiline=true&repeat=false&width=435&height=23&lines=%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5+%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%AC+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9E+%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9E!" alt="Typing SVG" /></a>
