@@ -16,7 +16,7 @@
 <h1></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1&color=E3BC8F&center=true&multiline=true&repeat=false&width=435&height=63&lines=%F0%9D%90%8A%F0%9D%90%9A%F0%9D%90%B2+%2F+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%A2+;%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A9+%F0%9D%90%AC%F0%9D%90%A9%2F%F0%9D%90%AC%F0%9D%90%A8%F0%9D%9F%96%F0%9D%9F%91%F0%9D%9F%95+;+%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%B2+%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%B0%F0%9D%90%A7'%F0%9D%90%AC+%F0%9D%90%8C%F0%9D%90%B2%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%A2+%F0%9D%90%A2%F0%9D%90%A7%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1&color=E3BC8F&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=67&lines=%F0%9D%90%8A%F0%9D%90%9A%F0%9D%90%B2+%2F+%F0%9D%90%8C%F0%9D%90%B2%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%A2%F0%9D%90%A6%F0%9D%90%A8%F0%9D%90%AC;%F0%9D%90%AC%F0%9D%90%A8+%2F+%F0%9D%90%AC%F0%9D%90%A9%F0%9D%9F%91%F0%9D%9F%96%F0%9D%9F%95;%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%B2+%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%B0%F0%9D%90%A7'%F0%9D%90%AC+%F0%9D%90%8C%F0%9D%90%B2%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%A2+%F0%9D%90%A2%F0%9D%90%A7%3A" alt="Typing SVG" /></a>
 </p>
 
 
