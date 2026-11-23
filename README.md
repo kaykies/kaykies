@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <p align="center">
 <img width="750" height="250" alt="Baslksz7_20261123194158" src="https://github.com/user-attachments/assets/3033c0d6-8f3e-4ff8-8b33-457f9d6a123c" />
 </p>
@@ -54,5 +60,5 @@
 <img width="330" height="190" alt="fd8c1861711a99060ec7212f5a85a2ab" src="https://github.com/user-attachments/assets/5a53fd4a-5012-4f85-bfb7-f412ced3769e" />
 </p>
 <p align="center">
-i cant delete him in so freaking sorry
+i cant delete him im so freaking sorry
 </p>
