@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-<a href="https://kaysome.atabook.org/">𝘢𝘵𝘢𝘣𝘰𝘰𝘬</a> . <a href="https://kaykiez.straw.page/">𝘴𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦</a> . <a href="https://en.pronouns.page/@kaykies">𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴𝘱𝘢𝘨𝘦</a> 
+<a href="https://decomytree.io/t/JJa4SV?invite=JJa4SV">𝙙𝙚𝙘𝙤𝙧𝙖𝙩𝙚 𝙢𝙮 𝙩𝙧𝙚𝙚</a> 
+</p>
+
+<p align="center">
+✦ <a href="https://kaysome.atabook.org/">𝘢𝘵𝘢𝘣𝘰𝘰𝘬</a> ✦ <a href="https://kaykiez.straw.page/">𝘴𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦</a> ✦ <a href="https://en.pronouns.page/@kaykies">𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴𝘱𝘢𝘨𝘦</a> ✦
 </p>
 
 <h1></h1>
