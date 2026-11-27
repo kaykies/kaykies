@@ -42,8 +42,8 @@
 
 
 <p align="center">
-<a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a> . <a href="https://github.com/pt-hall-of-media
-">pt-hall-of-media </a> . <a href="https://github.com/Ponytowns-rewards">Ponytowns-rewards</a> . <a href="https://github.com/piddlesjet">piddlesjet</a> . <a href="https://github.com/pony-town-nominations">pony-town-nominations</a>
+<a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a> ⟡ <a href="https://github.com/pt-hall-of-media
+">pt-hall-of-media </a> ⟡ <a href="https://github.com/Ponytowns-rewards">Ponytowns-rewards</a> ⟡ <a href="https://github.com/piddlesjet">piddlesjet</a> ⟡ <a href="https://github.com/pony-town-nominations">pony-town-nominations</a> ⟡ <a href="https://github.com/juminotown">juminotown</a> 
 </p>
 
 <p align="center">
